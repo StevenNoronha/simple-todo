@@ -16,6 +16,7 @@ function App() {
       }}>Set To Zero</button>
 
       {count}
+      {/* omg */}
     </div>
   );
 }
